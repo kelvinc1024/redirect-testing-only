@@ -10,6 +10,10 @@
                         "comment": "Matches on anything"
                     },
                     {                
+                        "/": "/*",
+                        "comment": "Matches on anything"
+                    },
+                    {                
                         "/": "/success/*",
                         "comment": "Matches any URL with a path that starts with /success/"
                     },
